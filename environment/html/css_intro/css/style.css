@@ -1,0 +1,14 @@
+#title {
+  color: red;
+}
+
+.description {
+  color: blue;
+}
+.mini {
+  font-size: 50%;
+}
+.list {
+  float: left;
+  
+}
